@@ -30,9 +30,8 @@ python election_scraper.py "zadane_mesto" "nazev_souboru"
 Popis programu election_scraper.py:
 
 funkce main():
-    0) Ověří, zda byl zadán správný počet argumentů (2)
+    0) Ověří, zda byl zadán správný počet argumentů (2) 
     1) Vykoná funkci election_scraper(zadane_mesto, nazev_souboru)
-
 funkce election_scraper(zadane_mesto, nazev_souboru):
     0) Zjistí města na územní úrovni (https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
        - pozn: tento krok je oproti zadání navíc - přes název města se dostane na url, kterou jsme dle zadání projektu mohli rovnou zadat - jelikož 
