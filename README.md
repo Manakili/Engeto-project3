@@ -46,10 +46,10 @@ funkce election_scraper(zadane_mesto, nazev_souboru):
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
 
-Ukázka programu election_scraper.py:
+Ukázka průběhu programu election_scraper.py:
 
-1) město s okrsky:
+1) město s okrsky (výsledky v souboru vysledky_Praha.csv):
 ![image](https://github.com/Manakili/Engeto-project3/assets/128411481/2b6e3c0b-48c9-428a-a5f2-bd50e50b7d56)
 
-2) město bez okrsků:
+2) město bez okrsků (výsledky v souboru vysledky_Prostějov.csv):
 ![image](https://github.com/Manakili/Engeto-project3/assets/128411481/17503e41-1f52-4130-afb2-1299feb41a40)
